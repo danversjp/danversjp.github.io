@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>About me on Jan-Pieter D&#39;Anvers</title>
+    <link>https://danversjp.github.io/</link>
+    <description>Recent content in About me on Jan-Pieter D&#39;Anvers</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 20 May 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://danversjp.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Science Communication</title>
+      <link>https://danversjp.github.io/sciencecommunication/</link>
+      <pubDate>Sat, 23 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://danversjp.github.io/sciencecommunication/</guid>
+      <description>Science figured out: How to keep a secret?:
+3 minute video presentation on the need for post-quantum cryptography and side-channel attacks for a broad audience (in dutch) [link]
+  KU Leuven @ Boekenbeurs:
+7 minute science slam presentation on cryptography for a broad audience (including my grandmother 😊)
+  Volunteer at WeGoSTEM:
+Yearly full day introduction to programming at local schools (5th and 6th grade) during EU Code Week.</description>
+    </item>
+    
+    <item>
+      <title>Publications</title>
+      <link>https://danversjp.github.io/publications/</link>
+      <pubDate>Thu, 21 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://danversjp.github.io/publications/</guid>
+      <description>(One) Failure Is Not an Option: Bootstrapping the Search for Failures in Lattice-Based Encryption Schemes
+with Mélissa Rossi and Fernando Virdia, Eurocrypt 2020 [eprint] [video]
+  Exploiting Decryption Failures in Mersenne Number Cryptosystems
+with Marcel Tiepelt, APKC 2020 [eprint]
+  Decryption failure attacks on IND-CCA secure lattice-based schemes
+with Qian Guo, Thomas Johansson, Alexander Nilsson, Frederik Vercauteren and Ingrid Verbauwhede, PKC 2019 (merged paper)
+original paper: On the impact of decryption failures on the security of LWE/LWR based schemes</description>
+    </item>
+    
+    <item>
+      <title>About me</title>
+      <link>https://danversjp.github.io/aboutme/</link>
+      <pubDate>Wed, 20 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://danversjp.github.io/aboutme/</guid>
+      <description>I&amp;rsquo;m a PhD student in the COSIC research group at KU Leuven, Belgium under the supervision of Ingrid Verbauwhede and Frederik Vercauteren. I research the security and efficiency of post-quantum cryptography, with a focus on lattice-based cryptography.
+ That was gobbledigook to me, now in human language?  Cryptography is the study of secure communication, for example encrypting messages into a secret code. It is essentially used on nearly every electronic device connected to the internet: computers, smartphones, car keys, medical databases, bank cards, .</description>
+    </item>
+    
+  </channel>
+</rss>
