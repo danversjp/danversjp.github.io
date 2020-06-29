@@ -1,7 +1,7 @@
 {
 	"version": 3,
 	"file": "hyde-hyde.css",
-	"sourceRoot": "/home/jipi/work/code/danversjp",
+	"sourceRoot": "/home/jipi/work/website",
 	"sources": [
 		"themes/hyde-hyde/assets/scss/hyde-hyde.scss",
 		"assets/scss/hyde-hyde/_variables.scss",
