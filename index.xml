@@ -42,13 +42,12 @@ Yearly full day introduction to programming at local schools (5th and 6th grade)
       <pubDate>Thu, 21 May 2020 00:00:00 +0000</pubDate>
       
       <guid>https://danversjp.github.io/publications/</guid>
-      <description>(One) Failure Is Not an Option: Bootstrapping the Search for Failures in Lattice-Based Encryption Schemes
+      <description>A Side-Channel Resistant Implementation of SABER
+with Michiel Van Beirendonck, Angshuman Karmakar, Josep Balasch, Ingrid Verbauwhede, ACM Journal on Emerging Technologies in Computing Systems 2020 [eprint]
+  (One) Failure Is Not an Option: Bootstrapping the Search for Failures in Lattice-Based Encryption Schemes
 with Mélissa Rossi and Fernando Virdia, Eurocrypt 2020 [eprint] [video]
   Exploiting Decryption Failures in Mersenne Number Cryptosystems
-with Marcel Tiepelt, APKC 2020 [eprint]
-  Decryption failure attacks on IND-CCA secure lattice-based schemes
-with Qian Guo, Thomas Johansson, Alexander Nilsson, Frederik Vercauteren and Ingrid Verbauwhede, PKC 2019 (merged paper)
-original paper: On the impact of decryption failures on the security of LWE/LWR based schemes</description>
+with Marcel Tiepelt, APKC 2020 [eprint]</description>
     </item>
     
     <item>
