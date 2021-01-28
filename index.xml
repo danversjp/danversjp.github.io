@@ -40,12 +40,12 @@ Science communication challenge: present your research to children age 6-12. I w
       <pubDate>Thu, 21 May 2020 00:00:00 +0000</pubDate>
       
       <guid>https://danversjp.github.io/publications/</guid>
-      <description>A Side-Channel Resistant Implementation of SABER
-with Michiel Van Beirendonck, Angshuman Karmakar, Josep Balasch, Ingrid Verbauwhede, ACM Journal on Emerging Technologies in Computing Systems 2020 [eprint]
-  (One) Failure Is Not an Option: Bootstrapping the Search for Failures in Lattice-Based Encryption Schemes
-with Mélissa Rossi and Fernando Virdia, Eurocrypt 2020 [eprint] [video]
-  Exploiting Decryption Failures in Mersenne Number Cryptosystems
-with Marcel Tiepelt, APKC 2020 [eprint]</description>
+      <description>Attacking and Defending Masked Polynomial Comparison for Lattice-Based Cryptography
+with Shivam Bhasin, Daniel Heinz, Thomas Pöppelmann and Michiel Van Beirendonck, Cryptology ePrint Archive, Report 2021/104 [eprint]
+  Error Term Checking: Towards Chosen Ciphertext Security without Re-encryption
+with Emmanuela Orsini and Frederik Vercauteren, Cryptology ePrint Archive, Report 2021/080 [eprint]
+  Analysis and Comparison of Table-based Arithmetic to Boolean Masking
+with Michiel Van Beirendonck, Ingrid Verbauwhede, Cryptology ePrint Archive, Report 2021/067 [eprint]</description>
     </item>
     
     <item>
