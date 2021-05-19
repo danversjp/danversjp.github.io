@@ -40,12 +40,12 @@ Science communication challenge: present your research to children age 6-12. I w
       <pubDate>Thu, 21 May 2020 00:00:00 +0000</pubDate>
       
       <guid>https://danversjp.github.io/publications/</guid>
-      <description>Attacking and Defending Masked Polynomial Comparison for Lattice-Based Cryptography
-with Shivam Bhasin, Daniel Heinz, Thomas Pöppelmann and Michiel Van Beirendonck, Cryptology ePrint Archive, Report 2021/104 [eprint]
+      <description>Multitarget decryption failure attacks and their application to Saber and Kyber
+with Senne Batsleer, Cryptology ePrint Archive, Report 2021/193 [eprint]
+  Attacking and Defending Masked Polynomial Comparison for Lattice-Based Cryptography
+with Shivam Bhasin, Daniel Heinz, Thomas Pöppelmann and Michiel Van Beirendonck, IACR Transactions on Cryptographic Hardware and Embedded Systems (TCHES) 2021 [eprint]
   Error Term Checking: Towards Chosen Ciphertext Security without Re-encryption
-with Emmanuela Orsini and Frederik Vercauteren, Cryptology ePrint Archive, Report 2021/080 [eprint]
-  Analysis and Comparison of Table-based Arithmetic to Boolean Masking
-with Michiel Van Beirendonck, Ingrid Verbauwhede, Cryptology ePrint Archive, Report 2021/067 [eprint]</description>
+with Emmanuela Orsini and Frederik Vercauteren, ACM ASIA Public-Key Cryptography Workshop 2021 (Best paper award) [eprint]</description>
     </item>
     
     <item>
