@@ -13,15 +13,6 @@
     
     <item>
       <title>PhD defence</title>
-      <link>https://danversjp.github.io/phddefence2/</link>
-      <pubDate>Mon, 24 May 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://danversjp.github.io/phddefence2/</guid>
-      <description>My PhD defence will take place on May 28th, at 1pm. I will update this page with the link to follow my defence online once it is available.</description>
-    </item>
-    
-    <item>
-      <title>PhD defence</title>
       <link>https://danversjp.github.io/phddefence/</link>
       <pubDate>Wed, 19 May 2021 16:48:13 +0200</pubDate>
       
@@ -59,12 +50,11 @@ Science communication challenge: present your research to children age 6-12. I w
       <pubDate>Thu, 21 May 2020 00:00:00 +0000</pubDate>
       
       <guid>https://danversjp.github.io/publications/</guid>
-      <description>Multitarget decryption failure attacks and their application to Saber and Kyber
-with Senne Batsleer, Cryptology ePrint Archive, Report 2021/193 [eprint] [code]
-  Attacking and Defending Masked Polynomial Comparison for Lattice-Based Cryptography
-with Shivam Bhasin, Daniel Heinz, Thomas Pöppelmann and Michiel Van Beirendonck, IACR Transactions on Cryptographic Hardware and Embedded Systems (TCHES) 2021 [eprint] [video]
-  Error Term Checking: Towards Chosen Ciphertext Security without Re-encryption
-with Emmanuela Orsini and Frederik Vercauteren, ACM ASIA Public-Key Cryptography Workshop 2021 (Best paper award) [eprint] [code]</description>
+      <description>Revisiting Higher-Order Masked Comparison for Lattice-Based Cryptography: Algorithms and Bit-sliced Implementations
+with Jan-Pieter D’Anvers, Michiel Van Beirendonck, Ingrid Verbauwhede, IACR Cryptology ePrint Archive 2022 [eprint] [code]
+  Higher-Order Masked Ciphertext Comparison for Lattice-Based Cryptography
+with Jan-Pieter D’Anvers, Daniel Heinz, Peter Pessl, Michiel Van Beirendonck, Ingrid Verbauwhede, IACR Transactions on Cryptographic Hardware and Embedded Systems (TCHES) 2022 [eprint] [code]
+  Multitarget decryption failure attacks and their application to Saber and Kyber</description>
     </item>
     
     <item>
