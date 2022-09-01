@@ -50,11 +50,12 @@ Science communication challenge: present your research to children age 6-12. I w
       <pubDate>Thu, 21 May 2020 00:00:00 +0000</pubDate>
       
       <guid>https://danversjp.github.io/publications/</guid>
-      <description>Revisiting Higher-Order Masked Comparison for Lattice-Based Cryptography: Algorithms and Bit-sliced Implementations
-with Jan-Pieter D’Anvers, Michiel Van Beirendonck, Ingrid Verbauwhede, IACR Cryptology ePrint Archive 2022 [eprint] [code]
-  Higher-Order Masked Ciphertext Comparison for Lattice-Based Cryptography
-with Jan-Pieter D’Anvers, Daniel Heinz, Peter Pessl, Michiel Van Beirendonck, Ingrid Verbauwhede, IACR Transactions on Cryptographic Hardware and Embedded Systems (TCHES) 2022 [eprint] [code]
-  Multitarget decryption failure attacks and their application to Saber and Kyber</description>
+      <description>One-Hot Conversion: Towards Faster Table-based A2B Conversion
+IACR Cryptology ePrint Archive 2022 [eprint]
+  Pushing the Limits of Generic Side-Channel Attacks on LWE-based KEMs-Parallel PC Oracle Attacks on Kyber KEM and Beyond
+with Gokulnath Rajendran, Prasanna Ravi, Shivam Bhasin, Anupam Chattopadhyay, IACR Cryptology ePrint Archive 2022 [eprint]
+  Higher-order masked Saber
+with Suparna Kundu, Michiel Van Beirendonck, Angshuman Karmakar, Ingrid Verbauwhede, IACR Cryptology ePrint Archive 2022 [eprint] [code]</description>
     </item>
     
     <item>
