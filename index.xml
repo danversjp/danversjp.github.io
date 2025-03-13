@@ -1,16 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>About me on Jan-Pieter D&#39;Anvers</title>
+    <title>Jan-Pieter D&#39;Anvers</title>
     <link>https://danversjp.github.io/</link>
-    <description>Recent content in About me on Jan-Pieter D&#39;Anvers</description>
+    <description>Recent content on Jan-Pieter D&#39;Anvers</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Wed, 20 May 2020 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://danversjp.github.io/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <language>en-us</language><atom:link href="https://danversjp.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>PhD defence</title>
       <link>https://danversjp.github.io/phddefence/</link>
@@ -50,9 +45,9 @@ Science communication challenge: present your research to children age 6-12. I w
       <pubDate>Thu, 21 May 2020 00:00:00 +0000</pubDate>
       
       <guid>https://danversjp.github.io/publications/</guid>
-      <description>Mask Conversions for d+1 shares in Hardware, with Application to Lattice-based PQC with Quinten Norga, Suparna Kundu, Ingrid Verbauwhede [eprint]
-  FPT: a Fixed-Point Accelerator for Torus Fully Homomorphic Encryption with Michiel Van Beirendonck, Ingrid Verbauwhede, Conference on Computer and Communication Security (CCS) 2023 [eprint]
-  Neural Network Quantisation for Faster Homomorphic Encryption with Wouter Legiest, Furkan Turan, Michiel Van Beirendonck, Ingrid Verbauwhede, International Symposium on On-Line Testing and Robust System Design (IOLTS) 2023 [eprint]</description>
+      <description>Leuvenshtein: Efficient FHE-based Edit Distance Computation with Single Bootstrap per Cell with Wouter Legiest, Bojan Spasic, Nam-Luc Tran, Ingrid Verbauwhede [eprint]
+  Mask Conversions for d+1 shares in Hardware, with Application to Lattice-based PQC with Quinten Norga, Suparna Kundu, Ingrid Verbauwhede [eprint]
+  FPT: a Fixed-Point Accelerator for Torus Fully Homomorphic Encryption with Michiel Van Beirendonck, Ingrid Verbauwhede, Conference on Computer and Communication Security (CCS) 2023 [eprint]</description>
     </item>
     
     <item>
