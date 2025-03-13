@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Jan-Pieter D&#39;Anvers</title>
+    <title>About me on Jan-Pieter D&#39;Anvers</title>
     <link>https://danversjp.github.io/</link>
-    <description>Recent content on Jan-Pieter D&#39;Anvers</description>
+    <description>Recent content in About me on Jan-Pieter D&#39;Anvers</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://danversjp.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <lastBuildDate>Wed, 20 May 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://danversjp.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>PhD defence</title>
       <link>https://danversjp.github.io/phddefence/</link>
